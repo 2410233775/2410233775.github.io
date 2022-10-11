@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cake1011">
+    <output-path>$PROJECT_DIR$/out/artifacts/cake1011</output-path>
+    <root id="archive" name="cake1011.war">
+      <element id="artifact" artifact-name="cake1 archive" />
+    </root>
+  </artifact>
+</component>
